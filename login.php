@@ -17,3 +17,4 @@ if ($resultado->num_rows > 0) {
     echo "Credenciales incorrectas. <a href='index.php'>Intentar de nuevo</a>";
 }
 ?>
+a
